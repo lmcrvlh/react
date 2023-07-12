@@ -1,1 +1,18 @@
 Projeto do curso de React e Next
+
+sudo apt instalar git
+
+# Configuração inicial do git
+git init
+git config --global user.name "Seu nome"
+git config --global user.email "seuemail@email.com"
+git remote add origin git@github.com:URL-COPIADA-DO-GIT
+
+# Editei o projeto
+adicionar git.
+git commit -m "A mensagem"
+mestre de origem do git push
+
+# CHAVES SSH
+ssh-keygen -t rsa -C "otaviomirandabr19@gmail.com"
+cat ~/.ssh/id_rsa.pub
